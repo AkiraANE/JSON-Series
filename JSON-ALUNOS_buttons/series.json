@@ -1,0 +1,65 @@
+[
+{
+"titulo": "Stranger Things",
+"ano": 2021,
+"genero": "Ficção",
+"temporadas": 4,
+"imagem": "ImportaJson/img/stranger.jpg"
+},
+
+{
+"titulo": "Loki",
+"ano": 2021,
+"genero": "Ação",
+"temporadas": 2,
+"imagem": "ImportaJson/img/loki.jpg"
+},
+
+{
+"titulo": "Weak Hero",
+"ano": 2024,
+"genero": "Ação",
+"temporadas": 2,
+"imagem": "ImportaJson/img/weak.jpg"
+},
+
+{
+"titulo": "Sonic Prime",
+"ano": 2024,
+"genero": "Aventura",
+"temporadas": 2,
+"imagem": "ImportaJson/img/sonic.jpg"
+},
+
+{
+"titulo": "Peaky Blinders",
+"ano": 2021,
+"genero": "Ficção",
+"temporadas": 4,
+"imagem": "ImportaJson/img/peaky.jpg"
+},
+
+{
+"titulo": "Justiceiro",
+"ano": 2024,
+"genero": "Ação",
+"temporadas": 1,
+"imagem": "ImportaJson/img/justiceiro.jpg"
+},
+
+{
+"titulo": "Wandinha",
+"ano": 2021,
+"genero": "Aventura",
+"temporadas": 2,
+"imagem": "ImportaJson/img/wandinha.jpg"
+},
+
+{
+"titulo": "Cães de Caça",
+"ano": 2024,
+"genero": "Ação",
+"temporadas": 2,
+"imagem": "ImportaJson/img/caes.jpg"
+}
+]

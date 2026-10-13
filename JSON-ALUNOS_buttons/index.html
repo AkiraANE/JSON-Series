@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Alunos - JSON Externo</title>
+    <link rel="stylesheet" href="ImportaJson/css/style.css">
+</head>
+<body>
+    <header>
+        <h1> Catálogo de Séries com JSON</h1>
+        <p>Consulta de séries carregados via JSON</p>
+    </header>
+
+    <main>
+        <section class="controles">
+            <button id="btnBuscar">Carregar Séries</button>
+            <button id="btnTodos">Todos</button>
+            <button id="btnFiccao">Ficção</button>
+            <button id="btnAcao">Ação</button>
+            <button id="btnAventura">Aventura</button>
+            <button id="btn2021">2021</button>
+            <button id="btn2024">2024</button>
+        </section>
+
+        <section class="status-area">
+            <p id="status"></p>
+        </section>
+
+        <section id="listaSeries" class="lista-series"></section>
+    </main>
+
+    <footer>
+        <p>Interfaces Web II - ETEC Guarulhos</p>
+    </footer>
+    <script src="ImportaJson/js/app.js"></script>
+</body>
+</html>
